@@ -5,9 +5,9 @@
 </p>
 
 # Lucas Martins
-<sub>Analista desenvolvedor de sistemas, amante de tecnologia</sub>
+<sub>Analista desenvolvedor de sistemas e amante de tecnologia</sub>
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python and Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-martins-b4720815a/)
