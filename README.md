@@ -5,6 +5,7 @@
 </p>
 
 # Lucas Martins
+Aqui está um pouco de meus estudos em Python e Data Science
 
 **Background in:** Python and Machine Learning.
 
