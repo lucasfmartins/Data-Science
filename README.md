@@ -23,6 +23,7 @@
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+https://github.com/lucasfmartins/Twitter-Clone
 
 ---
 
