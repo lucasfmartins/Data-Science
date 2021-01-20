@@ -5,7 +5,6 @@
 </p>
 
 # Lucas Martins
-<sub>Analista desenvolvedor de sistemas e amante de tecnologia</sub>
 
 **Background in:** Python and Machine Learning.
 
