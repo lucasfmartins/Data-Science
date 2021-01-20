@@ -17,6 +17,8 @@
 ## Projetos:
 
 * **Como usar e aplicar o algoritmo Kmeans para Clusterização:** https://github.com/lucasfmartins/Algoritimo_Kmeans/blob/main/Cluster_KMeans.ipynb
+* **Estudo de gastos anuais em unidades monetárias de clientes de um distribuidor atacadista:** https://github.com/lucasfmartins/wholesale-customers/blob/main/wholesale_customers.ipynb
+
 
 ---
 
