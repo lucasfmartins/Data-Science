@@ -21,6 +21,11 @@
 
 
 ---
+## Sobre mim:
+Sou um Analista desenvolvedor de sistemas e empreendedor.
+
+* Graduando Engenharia de Automação Industrial pelo CEFET-MG
+* Graduado em analise e desenvolvimento de sistemas
 
 
 
