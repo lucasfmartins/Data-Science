@@ -18,7 +18,7 @@ Aqui está um pouco de meus estudos em Python e Data Science
 
  * **Estudo de gastos anuais em unidades monetárias de clientes de um distribuidor atacadista:** https://github.com/lucasfmartins/wholesale-customers/blob/main/wholesale_customers.ipynb
  
- * **Análise da criminalidade de São Pualo: https://github.com/lucasfmartins/Criminalidade-SP **
+ * **Análise da criminalidade de São Pualo:** https://github.com/lucasfmartins/Criminalidade-SP
  
  * **Como usar e aplicar o algoritmo Kmeans para Clusterização:** https://github.com/lucasfmartins/Algoritimo_Kmeans/blob/main/Cluster_KMeans.ipynb
  
